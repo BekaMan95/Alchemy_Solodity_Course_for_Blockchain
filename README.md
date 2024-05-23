@@ -1,6 +1,6 @@
 # Alchemy_Solidity_Course_for_Blockchain
 
-Welcome to our Alchemy Solidity Course for Blockchain! We are a dedicated team diving into the world of blockchain through this comprehensive bootcamp. This course is structured into four chapters, each focusing on different aspects of Solidity and smart contracts. 
+Welcome to the Alchemy Solidity Course for Blockchain! We are a dedicated team of learners diving into the world of blockchain through this comprehensive bootcamp. This course is structured into four chapters, each focusing on different aspects of Solidity and smart contracts.
 
 ## Chapter 1: Solidity Introduction
 
@@ -51,7 +51,7 @@ Learn how to extend other smart contracts through inheritance.
 <br/>
 <p align="center">
 <a href="" target="_blank">
-<img src="/Alchemy_Solodity_Course_for_Blockchain/blob/Lidiya-Gezahegn/Screenshot%202024-05-24%20010520.png" width="350" alt=" Course Completion ">
+<img src="https://github.com/BekaMan95/Alchemy_Solodity_Course_for_Blockchain/blob/Lidiya-Gezahegn/Screenshot%202024-05-24%20010459.png" width="350" alt=" Course Completion ">
 </a>
 </p>
 <br/>

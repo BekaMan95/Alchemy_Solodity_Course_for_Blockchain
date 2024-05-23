@@ -51,7 +51,7 @@ Learn how to extend other smart contracts through inheritance.
 <br/>
 <p align="center">
 <a href="" target="_blank">
-<img src="https://github.com/BekaMan95/Alchemy_Solodity_Course_for_Blockchain/blob/Lidiya-Gezahegn/Screenshot%202024-05-24%20010459.png" width="350" alt=" Course Completion ">
+<img src="https://github.com/BekaMan95/Alchemy_Solodity_Course_for_Blockchain/blob/Lidiya-Gezahegn/Screenshot%202024-05-24%20010520.png" width="800" alt=" Course Completion ">
 </a>
 </p>
 <br/>

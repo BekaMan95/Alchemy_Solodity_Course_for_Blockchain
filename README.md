@@ -48,6 +48,7 @@ Build a real-world smart contract: a voting contract.
 
 ### Inheritance
 Learn how to extend other smart contracts through inheritance.
+
 <br/>
 <p align="center">
 <a href="" target="_blank">

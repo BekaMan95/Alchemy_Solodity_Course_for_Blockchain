@@ -55,7 +55,25 @@ Learn how to extend other smart contracts through inheritance.
 </a>
 </p>
 <br/>
+## Getting Started
+Installation
 
+ 1. Clone the repository:
+   ```
+git clone https://github.com/BekaMan95/Alchemy_Solodity_Course_for_Blockchain.git
+```
+2. Navigate to the project directory:
+
+```
+
+cd Alchemy_Solodity_Course_for_Blockchain
+```
+
+3. Install dependencies:
+
+```
+npm install
+```
 ## Resources
 - Presentations:[Alchemy Solidity Presentations](https://github.com/alchemyplatform/learn-solidity-presentations)
 - Marp Tool:[Marp App](https://marp.app/)

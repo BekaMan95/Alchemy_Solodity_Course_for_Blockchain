@@ -61,7 +61,7 @@ Learn how to extend other smart contracts through inheritance.
 - Marp Tool:[Marp App](https://marp.app/)
 - Foundry:[Foundry Documentation](https://book.getfoundry.sh/)
   
-### Anothor Reference 
+### Another Reference 
 Smart contract development with Solidity:- https://updraft.cyfrin.io/courses/solidity
 
 
